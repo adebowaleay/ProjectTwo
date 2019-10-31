@@ -5,11 +5,10 @@
       <title>CSS Adebowale Project 2</title>
       </head>
 <style>
-.header{ background-color: #xx;
+header{ background-color: #xx;
 	text-align: center;
 	padding: 10px;}
 p.a {font-family: Arial, Helvetica, sans-serif;}
-body {background-color: coral;font-family: verdana;}
 		ul {
   list-style-type: none;
   margin: 0;
@@ -33,5 +32,14 @@ li a:hover {
 	<ul><li><a class= "active" href= "index.html">Home Page</a></li>
 	      <li><a href= "resume.html">Resume</a></li>
 		      <li><a href= "heritage.html">Heritage</a></li></ul></nav>
+body {
+  background-color: #fefbd8;
+}
+h1 {
+  background-color: #f18973;
+}
+div {
+  background-color: #d5f4e6;
+}
 </body>
 </html>
