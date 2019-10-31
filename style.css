@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<!--adebowale, programmer--><html lang="en">
-<head>
-<meta charset= "UTF-8">
-      <title>CSS Adebowale Project 2</title>
-      </head>
-<style>
+
 header{ background-color: #xx;
 	text-align: center;
 	padding: 10px;}
@@ -35,12 +29,4 @@ h1 {
 div {
   background-color: #d5f4e6;
 }
-<body>
-<div class="header">
-		<nav>
-	<ul><li><a class= "active" href= "index.html">Home Page</a></li>
-	      <li><a href= "resume.html">Resume</a></li>
-		      <li><a href= "heritage.html">Heritage</a></li></ul></nav>
 
-</body>
-</html>
