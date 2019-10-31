@@ -26,12 +26,6 @@ li a {
 li a:hover {
   background-color: #FFA07A;}
 	</style>
-<body>
-<div class="header">
-		<nav>
-	<ul><li><a class= "active" href= "index.html">Home Page</a></li>
-	      <li><a href= "resume.html">Resume</a></li>
-		      <li><a href= "heritage.html">Heritage</a></li></ul></nav>
 body {
   background-color: #fefbd8;
 }
@@ -41,5 +35,12 @@ h1 {
 div {
   background-color: #d5f4e6;
 }
+<body>
+<div class="header">
+		<nav>
+	<ul><li><a class= "active" href= "index.html">Home Page</a></li>
+	      <li><a href= "resume.html">Resume</a></li>
+		      <li><a href= "heritage.html">Heritage</a></li></ul></nav>
+
 </body>
 </html>
