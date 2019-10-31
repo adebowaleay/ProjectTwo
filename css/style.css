@@ -14,30 +14,48 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #E6E6FA;
-	line-height: 1.5em;
-}
+	line-height: 2em;
+	border: 5px inset red;
 
+}
+li{
+
+}
+p{
+	line-height: 2em;
+
+}
 li a {
   display: block;
   color: red;
   text-align: center;
   padding: 0.5em 0.5em;
-	line-height: 1.5em;
+	line-height: 2em;
   text-decoration: none;}
 li a:hover {
   background-color: #FFA07A;
-	line-height: 1.5em;
+	line-height: 2em;
 }
 
 h1 {
   background-color: #f18973;
-	font-size: 3em;
-	line-height: 1.5em;
+	font-size: 2.5em;
+	line-height: 1em;
 	text-align: center;
+}
+
+h2{
+	font-size: 2.5em;
+	line-height: 1em;
+}
+h3{
+font-size: 2.5em;
+line-height: 1em;
 }
 div {
   background-color: #d5f4e6;
+	line-height: 2em;
 }
-#resume{
-	  padding: 0.4em 0.4em 0.4em 0.4em;
+div.resume{
+		text-align: center;
 }
